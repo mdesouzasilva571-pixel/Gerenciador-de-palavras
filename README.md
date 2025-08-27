@@ -1,4 +1,4 @@
 # Gerenciador-de-palavras
-Atividade 1
-
+Atividade1
 Para ativar os comandos é só apertar em "EXECUTAR TUDO".
+
